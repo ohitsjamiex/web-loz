@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
+body {
+     background-image: url(images/gaming.png);
+}
+
+div {
+    margin: 0 auto;
+    width: ___px;
+    text-align: center;
+}
+
+h1 {
+    border: 5px solid rgba(255, 255, 255, 0.589);
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 1px;
+    padding: 1px;
+    width: 100px;
+    background-color: #ffffff8e;
+    border: 1px solid rgba(0, 0, 0, 0.534);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px
+  }
+  li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    padding: 8px 16px;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.589);
+    border-radius: 50%;
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color: rgba(0, 255, 221, 0.603);
+    color: rgb(0, 0, 0);
+}
+
+textarea {
+    width: 500px;
+    height: 150px;
+    background-color: rgba(255, 255, 255, 0.582);
+    border: 1px solid rgb(19, 18, 18);
+  }
+
+img {
+    border-radius: 50%;
+}
+
+.pics {
+    width: auto;
+    display: inline-block;
+    
+}
+.pics img {
+    margin: auto 5px;
+    float: center;
+    width: auto;
+    height: auto;
+    border: 2px solid rgb(0, 0, 0)
+}
+
+.largeFont {
+    font-size: 100px;
+}
+.fontColor {
+    color: rgb(255, 255, 255); 
+}
+.behindtext {
+    background-color: rgba(0, 255, 213, 0.575);
+}
